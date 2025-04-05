@@ -16,6 +16,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/PouyaDini10/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PouyaDini10/ticket-lifecycle)
 - <b>Linux<b/>
+- <b>Security Basics<b/>
 
   
 <h2>🤳Connect with me:</h2>
