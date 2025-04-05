@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Pouya, an <a href="https://linkedin.com/in/Josh">IT Professional</a>😎</h1>
+<h1>Hi, I'm Pouya, an <a href="https://linkedin.com/in/Josh">IT Professional</a>😊</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -7,7 +7,6 @@
 - <b>Networking</b>
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PouyaDini10/azure-network-protocols)
   -  [File Server Setup](https://github.com/PouyaDini10/Filer-Server-Setup)
-
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PouyaDini10/configure-ad)
   - [VPN Lab](https://github.com/PouyaDini10/VPN-Lab)
