@@ -6,7 +6,7 @@
 - <b>DIY Custom PC Build (Step-by-Step)<b/>
 - <b>Networking</b>
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PouyaDini10/azure-network-protocols)
-  -  [File Server Setup](https://github.com/PouyaDini10/Filer-Server-Setup)
+  -  [Network File Shares and Permissions](https://github.com/PouyaDini10/Filer-Server-Setup)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PouyaDini10/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
   - [VPN Lab](https://github.com/PouyaDini10/VPN-Lab)
