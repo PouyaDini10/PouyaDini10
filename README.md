@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>DIY Custom PC Build (Step-by-Step)<b/>
+- <b>DIY Custom PC Build (Step-by-Step) <-- Coming Soon<b/>
 - <b>Networking</b>
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PouyaDini10/azure-network-protocols)
 - <b>Microsoft Azure</b>
