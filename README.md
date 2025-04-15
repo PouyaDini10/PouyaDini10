@@ -20,9 +20,11 @@
 
   
 <h2>🤳Connect with me:</h2>
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<a href="https://www.linkedin.com/in/pouya-mottaghian-dini" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
 
 
-[linkedin]: https://linkedin.com/in/Josh
 
 
