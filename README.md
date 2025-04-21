@@ -15,7 +15,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/PouyaDini10/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PouyaDini10/ticket-lifecycle)
 - <b>VPN<b/>
-  - [VPN](https://github.com/PouyaDini10/VPN-Lab)
+  - [VPN - Rudimentary VPN Analysis](https://github.com/PouyaDini10/VPN-Lab)
 - <b>Linux<b/>
   - [Linux Lab Web Hosting](https://github.com/PouyaDini10/Linux-VM-Hands-On-Lab-User-Management-Software-Installation-Web-Hosting)
 - <b>Security Basics<b/>
