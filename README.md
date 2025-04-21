@@ -9,13 +9,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/PouyaDini10/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-/blob/main/README.md)
   -  [Network File Shares and Permissions](https://github.com/PouyaDini10/Filer-Server-Setup)
   -  [DNS](https://github.com/PouyaDini10/DNS-Lab)
-  - [VPN](https://github.com/PouyaDini10/VPN-Lab)
 - <b>osTicket (Help Desk Ticketing System) <---- Coming Soon!</b>
   - [osTicket: Prerequisites and Installation](https://github.com/PouyaDini10/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/PouyaDini10/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PouyaDini10/ticket-lifecycle)
 - <b>VPN<b/>
   - [VPN - Rudimentary VPN Analysis](https://github.com/PouyaDini10/VPN-Lab)
+  - [VPN Troubleshooting Lab (OpenVPN)](https://github.com/PouyaDini10/VPN-Troubleshooting-Lab-OpenVPN-)
 - <b>Linux<b/>
   - [Linux Lab Web Hosting](https://github.com/PouyaDini10/Linux-VM-Hands-On-Lab-User-Management-Software-Installation-Web-Hosting)
 - <b>Security Basics<b/>
