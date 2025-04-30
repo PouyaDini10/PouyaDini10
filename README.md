@@ -5,7 +5,7 @@
   <p style="font-size: 16px; color: #555; max-width: 800px;">
     I'm currently studying for my <strong>CompTIA A+</strong> certification and enrolled at <strong>WGU</strong> where I'm majoring in <strong>Network Engineering</strong>. 
     I'm focused on solidifying my skills through hands-on projects, real-world troubleshooting, and continuous learning. 
-    I also run a <a href="https://www.youtube.com/@MindfulTech-0811" target="_blank" style="color: #d22;">YouTube channel</a> where I explain fundamental and beginner-friendly IT concepts for anyone looking engage in a continous learning environment.
+    I also run a <a href="https://www.youtube.com/@MindfulTech-0811" target="_blank" style="color: #d22;">YouTube channel</a> where I explain fundamental and beginner-friendly IT concepts for anyone looking to engage in a continous learning environment.
   </p>
 </section>
 
