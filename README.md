@@ -26,3 +26,6 @@
 <a href="https://www.linkedin.com/in/pouya-mottaghian-dini" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
+<a href="https://www.youtube.com/@MindfulTech-0811" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="30" height="30"/>
+</a>
