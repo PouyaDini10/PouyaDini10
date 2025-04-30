@@ -1,5 +1,14 @@
 <h1>Hi, I'm Pouya, an <a href="https://linkedin.com/in/Josh">IT Professional</a>😊</h1>
 
+<section id="about" style="font-family: Arial, sans-serif; padding: 20px; background-color: #f9f9f9;">
+  <h2 style="color: #333;">About Me</h2>
+  <p style="font-size: 16px; color: #555; max-width: 800px;">
+    I'm currently studying for my <strong>CompTIA A+</strong> certification and enrolled at <strong>WGU</strong> where I'm majoring in <strong>Network Engineering</strong>. 
+    I'm focused on solidifying my skills through hands-on projects, real-world troubleshooting, and continuous learning. 
+    I also run a <a href="https://www.youtube.com/@MindfulTech-0811" target="_blank" style="color: #d22;">YouTube channel</a> where I explain fundamental and beginner-friendly IT concepts for anyone looking engage in a continous learning environment.
+  </p>
+</section>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>DIY Custom PC Build (Step-by-Step) <-- Coming Soon!<b/>
