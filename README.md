@@ -28,6 +28,7 @@
 - <b>Linux<b/>
   - [Linux Lab Web Hosting](https://github.com/PouyaDini10/Linux-VM-Hands-On-Lab-User-Management-Software-Installation-Web-Hosting)
 - <b>Security Basics<b/>
+- <b>SQL Project<b/>
 
   
 <h2>🤳Connect with me:</h2>
