@@ -29,6 +29,7 @@
   - [Linux Lab Web Hosting](https://github.com/PouyaDini10/Linux-VM-Hands-On-Lab-User-Management-Software-Installation-Web-Hosting)
 - <b>Security Basics<b/>
 - <b>SQL Project<b/>
+    - [Exploratory Data Analysis](https://github.com/PouyaDini10/SQL-Project)
 
   
 <h2>🤳Connect with me:</h2>
