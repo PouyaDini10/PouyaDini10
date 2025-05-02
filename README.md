@@ -24,7 +24,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/PouyaDini10/ticket-lifecycle)
 - <b>VPN<b/>
   - [VPN - Rudimentary VPN Analysis](https://github.com/PouyaDini10/VPN-Lab)
-  - [VPN Troubleshooting Lab (OpenVPN)](https://github.com/PouyaDini10/VPN-Troubleshooting-Lab-OpenVPN-)
+  - [VPN Troubleshooting Lab (OpenVPN)](https://github.com/PouyaDini10/VPN-Troubleshooting-Lab-OpenVPN-) <-- Coming Soon
 - <b>Linux<b/>
   - [Linux Lab Web Hosting](https://github.com/PouyaDini10/Linux-VM-Hands-On-Lab-User-Management-Software-Installation-Web-Hosting)
 - <b>Security Basics<b/>
