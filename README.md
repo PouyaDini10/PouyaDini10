@@ -13,7 +13,7 @@
 
 - <b>DIY Custom PC Build (Step-by-Step) <-- Coming Soon!<b/>
 - <b>ThinkPad Disassembly & IT Fundamentals Lab Series<b/>
-   - [Laptop Tear-Down & Hardware Identification Lab]
+   - Laptop Tear-Down & Hardware Identification Lab
 - <b>Networking</b>
   -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PouyaDini10/azure-network-protocols)
 - <b>Microsoft Azure</b>
